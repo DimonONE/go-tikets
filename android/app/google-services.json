@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655511885016",
+    "project_id": "selector-6484b",
+    "storage_bucket": "selector-6484b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655511885016:android:2097664a37cdbb20caf3ad",
+        "android_client_info": {
+          "package_name": "com.x_p1gas_x.goTicket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655511885016-r3ktatbv3jq8dr9hurdcjvsl5jobpd0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4R7lsgwWitYtEBaYOVM-z9lpYtvz8_8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655511885016-r3ktatbv3jq8dr9hurdcjvsl5jobpd0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
